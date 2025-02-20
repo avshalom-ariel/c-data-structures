@@ -31,9 +31,13 @@ This repository features the following data structures, each organized into its 
 ## Project Structure
 
 The project is organized by each data structure, with source code, header files, and example usage. Each folder contains the implementation for a specific data structure, along with relevant documentation.
-
+   ```bash
 /my-data-structures 
-├── avl/ # AVL Tree implementation ├── bitarray/ # BitArray implementation ├── bst/ # Binary Search Tree implementation ├── cbuffer/ # Circular Buffer implementation ├── dhcp/ # DHCP protocol implementation 
+├── avl/ # AVL Tree implementation 
+├── bitarray/ # BitArray implementation 
+├── bst/ # Binary Search Tree implementation 
+├── cbuffer/ # Circular Buffer implementation 
+├── dhcp/ # DHCP protocol implementation 
 ├── doubly_linked_list/ # Doubly Linked List implementation 
 ├── dynamic_vector/ # Dynamic Vector implementation 
 ├── fsm/ # Finite State Machine implementation 
@@ -53,8 +57,8 @@ The project is organized by each data structure, with source code, header files,
 ├── main.c # Example usage or testing 
 ├── Makefile # Makefile to build the project 
 └── README.md # Root project documentation
-
-
+   ```
+   
 ## How to Compile and Run
 
 1. **Clone the repository**:
