@@ -1,10 +1,3 @@
-/*
-Name: Avshalom Ariel
-Reveiwer: Or
-Date: 30/06/2024
-status: Approved
-*/
-
 #include <assert.h> 	/* assert */
 #include <stdlib.h> 	/* size_t malloc free */
 #include <math.h> 		/* pow */

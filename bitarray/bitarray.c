@@ -1,4 +1,3 @@
-
 #include <stdio.h> /*printf, size_t*/
 #include <string.h> /*strncat*/
 #include <assert.h> /*assert*/

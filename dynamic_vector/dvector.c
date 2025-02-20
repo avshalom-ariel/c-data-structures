@@ -3,7 +3,6 @@
 #include <stdlib.h> /*malloc*/
 #include <assert.h> /*assert*/
 
-
 struct vector
 {
   size_t capacity;

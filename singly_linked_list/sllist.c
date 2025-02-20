@@ -1,7 +1,6 @@
-
 #include <stdio.h> /*printf*/
 #include <stdlib.h> /*malloc, free*/
- #include <assert.h> /*assert*/
+#include <assert.h> /*assert*/
  
 #include "sllist.h" /*size_t, linked_list_t, iterator_t vode_t*/
 

@@ -1,10 +1,3 @@
-/*
-Author: Avshalom Ariel
-Review by: Amit
-Review date: 25/06/2024
-Status: Approved
-*/
-
 #include <stdlib.h>/*malloc, free*/
 #include <assert.h> /*assert*/
 

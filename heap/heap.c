@@ -1,10 +1,3 @@
-/*
-Name: Avshalom Ariel
-Reveiwer: Or
-Date: 01/07/2024
-status: Approved
-*/
-
 #include <stdlib.h> 	/*malloc free*/
 #include <assert.h> 	/*assert*/
 #include <sys/types.h>	/*ssize_t*/

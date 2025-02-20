@@ -1,9 +1,3 @@
-/* 
-writen by Avshalom Ariel
-in 04/05 was reviewed by Yan
-*/
-
-
 #include <stdlib.h> /*malloc, size_t*/
 #include <string.h>
 

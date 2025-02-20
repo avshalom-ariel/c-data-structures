@@ -1,10 +1,3 @@
-/*
-Name: Avshalom Ariel
-Reveiwer: Itay
-Date: 20/05/2024
-status: Approved
-*/
-
 #include <stdlib.h> /*malloc, free*/
 #include <assert.h> /*assert*/
 

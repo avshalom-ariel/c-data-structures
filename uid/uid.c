@@ -1,10 +1,3 @@
-/*
-Name: Avshalom Ariel
-Reveiwer: Shahar Marom
-date: 28/05/2023
-status: Approved
-*/
-
 #include <time.h> /*time*/
 #include <unistd.h> /*getpid*/
 #include <pthread.h> /* pthread_mutex_t pthread_mutex_lock pthread_mutex_unlock */

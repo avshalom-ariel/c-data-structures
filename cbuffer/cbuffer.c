@@ -1,10 +1,3 @@
-/*
-Name: Avshalom Ariel
-Reveiwer: Shahae Marom
-Date: 21/05/2024
-status: Approved
-*/
-
 #include <stddef.h> /*size_t*/
 #include <stdlib.h> /*malloc, free*/
 #include <assert.h> /*assert*/

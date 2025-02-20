@@ -1,10 +1,3 @@
-/*
-Name: Avshalom Ariel
-Reveiwer: Jorge
-date: 05/06/2024
-status: Approved
-*/
-
 #include <stddef.h> /*size_t*/
 #include <assert.h> /*assert*/
 #include "fsa.h" /*fsa_t, FSAfunction declarations*/
