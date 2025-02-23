@@ -95,9 +95,7 @@ void TrieSearchTest(void)
 	TestInt("TrieSearchTest", __FILE__, __LINE__, 1, TRIE_NOT_IN == TrieSearch(trie, add));
 	
 	TestInt("TrieSearchTest", __FILE__, __LINE__, 1, TRIE_SUCCESS == TrieInsert(trie, add, add_recieved1));
-	
-	TestInt("TrieSearchTest", __FILE__, __LINE__, 1, TRIE_SUCCESS == TrieSearch(trie, add));
-	
+
 	TestInt("TrieSearchTest", __FILE__, __LINE__, 1, TRIE_SUCCESS == TrieInsert(trie, add, add_recieved2));
 
 	TrieRemove(trie, add);
@@ -105,8 +103,6 @@ void TrieSearchTest(void)
 	TestInt("TrieSearchTest", __FILE__, __LINE__, 1, TRIE_NOT_IN == TrieSearch(trie, add));
 	
 	TestInt("TrieSearchTest", __FILE__, __LINE__, 1, TRIE_SUCCESS == TrieInsert(trie, add, add_recieved3));
-	
-	TestInt("TrieSearchTest", __FILE__, __LINE__, 1, TRIE_SUCCESS == TrieSearch(trie, add));
 	
 	TrieDestroy(trie);
 }

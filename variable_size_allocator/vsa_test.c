@@ -3,9 +3,9 @@
 #include <assert.h> 				/*assert*/
 
 
-/*#include "vsa.h" */				/*vsa_t, VSAfunction declaration*/
+#include "vsa.h"				/*vsa_t, VSAfunction declaration*/
 #include "test_utility.h" 			/*Test function declarations*/
-#include "AvshalomToEvelinCRvsa.h" 
+
 
 #define WORD_SIZE sizeof(void *)
 

@@ -64,13 +64,14 @@ The project is organized by each data structure, with source code, header files,
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/my-data-structures.git
+   git clone https://github.com/avshalom-ariel/my-data-structures.git
    cd my-data-structures
    ```
 
 2. **Use the Makefile to compile the project:**
    ```bash
    make
+   make run_tests
    ```
 
 3. **Run the compiled program:**
