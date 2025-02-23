@@ -72,6 +72,7 @@ The project is organized by each data structure, with source code, header files,
    ```bash
    make
    make run_tests
+   make clean
    ```
 
 3. **Run the compiled program:**
